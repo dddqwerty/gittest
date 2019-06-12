@@ -6,6 +6,6 @@ int main()
 {
     cout <<"Hello world" << endl;
     cout <<"dsdaada" << endl;
-    cout <<""Dsds<<endl;
+    cout <<
     return 0;
 }
